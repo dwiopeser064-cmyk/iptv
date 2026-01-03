@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=968000,RESOLUTION=576x324,NAME="320p"
+https://vs2120.vcdn.biz/631bce91d3887c33ade2c670faa12866_megogo/live/hls/b/700_2490_4000/u_sid/0/o/199953841/rsid/50b2b6c4-cae1-408c-baa1-43bd733fcc3b/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/217.114.34.212*asn/u_srvc/81255/u_did/web_6E1HxqCXWtsLOzgk7aeKRdeKchKJwKjL/type.live/chunklist-sid3580195690573484204-b700000.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3128000,RESOLUTION=1024x576,NAME="576p"
+https://vs2120.vcdn.biz/631bce91d3887c33ade2c670faa12866_megogo/live/hls/b/700_2490_4000/u_sid/0/o/199953841/rsid/50b2b6c4-cae1-408c-baa1-43bd733fcc3b/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/217.114.34.212*asn/u_srvc/81255/u_did/web_6E1HxqCXWtsLOzgk7aeKRdeKchKJwKjL/type.live/chunklist-sid3580195690573484204-b2490000.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4992000,RESOLUTION=1920x1080,NAME="1080p"
+https://vs2120.vcdn.biz/631bce91d3887c33ade2c670faa12866_megogo/live/hls/b/700_2490_4000/u_sid/0/o/199953841/rsid/50b2b6c4-cae1-408c-baa1-43bd733fcc3b/u_uid/0/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/217.114.34.212*asn/u_srvc/81255/u_did/web_6E1HxqCXWtsLOzgk7aeKRdeKchKJwKjL/type.live/chunklist-sid3580195690573484204-b4000000.m3u8
