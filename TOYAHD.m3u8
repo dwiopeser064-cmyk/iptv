@@ -3,11 +3,11 @@
 
 #EXT-X-INDEPENDENT-SEGMENTS
 
-#EXT-X-MEDIA:TYPE=AUDIO,URI="3/0/playlist.m3u8",GROUP-ID="default-audio-group",LANGUAGE="pl",NAME="stream_3",AUTOSELECT=YES,CHANNELS="2"
+#EXT-X-MEDIA:TYPE=AUDIO,URI="https://cdn-14-go.toya.net.pl/drm/001_toyahd/3/0/playlist.m3u8",GROUP-ID="default-audio-group",LANGUAGE="pl",NAME="stream_3",AUTOSELECT=YES,CHANNELS="2"
 
 #EXT-X-STREAM-INF:BANDWIDTH=2440578,AVERAGE-BANDWIDTH=1600349,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=967x544,FRAME-RATE=25.000,AUDIO="default-audio-group",CLOSED-CAPTIONS=NONE
-1/0/playlist.m3u8
+https://cdn-14-go.toya.net.pl/drm/001_toyahd/1/0/playlist.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1350234,AVERAGE-BANDWIDTH=900355,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=654x368,FRAME-RATE=25.000,AUDIO="default-audio-group",CLOSED-CAPTIONS=NONE
-2/0/playlist.m3u8
+https://cdn-14-go.toya.net.pl/drm/001_toyahd/2/0/playlist.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=836762,AVERAGE-BANDWIDTH=560394,CODECS="avc1.4d4015,mp4a.40.2",RESOLUTION=480x270,FRAME-RATE=25.000,AUDIO="default-audio-group",CLOSED-CAPTIONS=NONE
-0/0/playlist.m3u8
+https://cdn-14-go.toya.net.pl/drm/001_toyahd/0/0/playlist.m3u8
