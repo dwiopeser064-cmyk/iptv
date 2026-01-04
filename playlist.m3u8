@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="-" tvg-logo="-" ,Polonia 1
 https://raw.githubusercontent.com/dwiopeser064-cmyk/iptv/refs/heads/main/Polonia1.m3u8
-#EXTINF:-1 group-title="-" tvg-logo="-" ,TVN
-https://raw.githubusercontent.com/dwiopeser064-cmyk/iptv/refs/heads/main/TVN.m3u8
+#EXTINF:-1 group-title="-" tvg-logo="-" ,TVN 24
+https://raw.githubusercontent.com/dwiopeser064-cmyk/iptv/refs/heads/main/TVN24.m3u8
 #EXTINF:-1 group-title="-" tvg-logo="-" ,TVP 3 Warszawa
 https://raw.githubusercontent.com/dwiopeser064-cmyk/iptv/refs/heads/main/TVP3.m3u8
 #EXTINF:-1 group-title="-" tvg-logo="-" ,Tele 5
