@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:0, Radio 357
+https://n-11-21.dcs.redcdn.pl/sc/o2/radio357/live/radio357_pr.livx?preroll=0
+#EXTINF:0, SKYSHOWTIME 1
+https://n-22-22.dcs.redcdn.pl/livedash/play/playtv/indigo/live/skyshowtime1/live.livx?indexMode
+#EXTINF:0, SKYSHOWTIME 2
+https://n-22-22.dcs.redcdn.pl/livedash/play/playtv/indigo/live/skyshowtime2/live.livx?indexMode
+#EXTINF:0, TVP 3 Opole
+https://n-22-11.dcs.redcdn.pl/livedash/play/playtv/indigo/live/TVP3_Opole/live.livx?indexMode&futc
+#EXTINF:0, TVP 3 Rzeszów
+https://n-22-11.dcs.redcdn.pl/livedash/play/playtv/indigo/live/TVP3_Rzeszow/live.livx?indexMode&futc
+#EXTINF:0, Polsat 2
+https://n-22-2.dcs.redcdn.pl/livedash/play/playtv/indigo/live/polsat_2/live.livx?indexMode&futc
+#EXTINF:0, Zoom TV
+https://n-16-8.dcs.redcdn.pl/livedash/play/playtv/indigo/live/zoom_tv/live.livx
+#EXTINF:0, Polsat News 2
+https://n-22-2.dcs.redcdn.pl/livedash/play/playtv/indigo/live/polsat_news_2/live.livx?indexMode&futc
+#EXTINF:0, Wydarzenia 24
+https://n-22-2.dcs.redcdn.pl/livedash/play/playtv/indigo/live/wydarzenia24/live.livx?indexMode&futc
+#EXTINF:0, Polsat Sport 3
+https://n-22-2.dcs.redcdn.pl/livedash/play/playtv/indigo/live/polsat_sport_news/live.livx?indexMode&futc
+#EXTINF:0, Polsat Doku
+https://n-22-2.dcs.redcdn.pl/livedash/play/playtv/indigo/live/polsat_doku/live.livx?indexMode&futc
+#EXTINF:0, Nowa TV
+https://n-22-2.dcs.redcdn.pl/livedash/play/playtv/indigo/live/nowa_tv/live.livx?indexMode&futc
