@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="-" tvg-logo="https://tvn24.pl/_e/i/plus/na-zywo/cdn-zdjecie-3281881-pc-ph8642582/alternates/WEBP_LANDSCAPE_480" ,TVN 24
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/tvn_24/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=17200000
+#EXTINF:-1 group-title="-" tvg-logo="https://tvn24.pl/_e/i/plus/na-zywo/cdn-zdjecie-7859695-pc-ph8680706/alternates/WEBP_LANDSCAPE_480" ,TVN 24 BIS
+https://r.dcs.redcdn.pl/livedash/o2/tvnplayer/live/tvn_24_bis/live.isml/playlist.mpd?indexMode=&dummyfile=&server_side_events=0&dvr=17200000
